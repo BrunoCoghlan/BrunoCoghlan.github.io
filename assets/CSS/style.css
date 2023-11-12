@@ -33,3 +33,7 @@ footer{
 .centrar{
     margin: auto 0;
 }
+.bg-color2{
+    background-color: #005B41;
+    opacity: 70%;
+}
