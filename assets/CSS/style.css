@@ -6,29 +6,28 @@ body {
     font-family: roboto;
     background-color: #0F0F0F;
 }
-
+/*PALETA DE COLORES*/
 .bg-color1{
     background-color: #232D3F;
     opacity: 90%;
 }
+/*ESTILO FOTO CV*/
 .circular-img {
     border-radius: 50%;
 }
-
+/*ESTILO CARD*/
 .card{
     background-color: #232D3F;
     margin: auto;
     color: white;
 }
+
 footer{
     background-color: #005B41;
     margin: 0px;
     padding: 10px;
     text-align: center;
     font-size: 0.7rem;
-}
-#fotocv{
-    border-radius: 50%;
 }
 .centrar{
     margin: auto 0;
