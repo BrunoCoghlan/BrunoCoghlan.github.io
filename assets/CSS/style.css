@@ -4,11 +4,11 @@ body {
     margin: 0;
     min-width: 320px;
     font-family: roboto;
-    background-color: #FFFBF5;
+    background-color: #0F0F0F;
 }
 
 .bg-color1{
-    background-color: #190482;
+    background-color: #232D3F;
     opacity: 90%;
 }
 .circular-img {
@@ -16,10 +16,20 @@ body {
 }
 
 .card{
-    background-color: #C2D9FF;
-    border-radius: 25px;
-    border: 3px solid #190482;
-    max-width: 90%;
+    background-color: #232D3F;
     margin: auto;
-
+    color: white;
+}
+footer{
+    background-color: #005B41;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.7rem;
+}
+#fotocv{
+    border-radius: 50%;
+}
+.centrar{
+    margin: auto 0;
 }
